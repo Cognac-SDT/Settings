@@ -6,7 +6,7 @@
     <string name="pref_title_ringtone">Ringtone</string>
     <string name="pref_ringtone_silent">Silent</string>
 
-    <string name="default_gallery_storage">My Videos SDT</string>
+    <string name="default_gallery_storage">My Videos SDT FIX 2</string>
     <string name="title_auto_upload">Auto upload</string>
     <string name="summary_upload_over_wifi">Upload the videos when wifi is available</string>
     <string name="title_upload_quality">Upload Quality</string>
